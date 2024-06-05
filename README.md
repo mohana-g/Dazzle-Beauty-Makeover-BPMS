@@ -1,1 +1,6 @@
 # Dazzle-Beauty-Makeover-BPMS
+             This is a web application for Beauty Parlour Management System. It is used to manage the parlour information about the employees and the customers. 
+The main objective of parlour management is to save time and complexity of work at beauty salon. This system is very much effective web application. It is helpful for all the person because the uses of this application are easy. By this you can see all types of services for yourself, parlour work and order according as per your need. From this system you can book appointment at your home anytime in your location.It helps to evaluate best solution for booking online appointments and  to manage the same.
+The application is used to manipulate the data of the customer , employee and the services provided in the parlour. This is purely designed as an administrator side management project. It helps the administrator to maintain the parlour in an easy manner.
+Enables the administrator to know about the appointments in the daily basis and the customer information. The admin can take a report for the admin's record purpose.
+The web application is designed by using html , css , javascript ,bootstrap  as framework and mysql  as backend. Php is a server side language.
